@@ -1,0 +1,46 @@
+body {
+height: 100vh;
+background-image: url(img/rumkit1.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+}
+
+.wrap {
+width: 50%;
+margin: auto;
+color: white;
+border-radius: 10px;
+font-family: "Comic Sans MS", sans-serif;
+background-color: #008B8B;
+}
+
+.container {
+padding: 5px;
+margin: 10%;
+}
+
+h1 {
+text-align: center;
+}
+
+table {
+margin: auto;
+padding-bottom: 50px;
+}
+
+table td {
+margin: 5px;
+}
+
+button {
+width: 70px;
+height: 40px;
+padding: 8px 10px;
+border-radius: 7px;
+background-color: #0C134F;
+font-family: "Comic Sans MS", sans-serif;
+font-size: 14px;
+color: #fafafa;
+}
